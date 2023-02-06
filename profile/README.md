@@ -1,6 +1,6 @@
 ![배너](https://user-images.githubusercontent.com/97332044/216995179-b98d0f82-f1d8-4ac1-bc31-3880f91bb3e9.png)
 
-# 눈치 코치 캐치
+# 눈치 코치 캐치!
 
 ## 🎨 프로젝트 소개
 **“이건 무슨 그림일까요? 어떻게 그리면 될까요?”<br>**
@@ -11,7 +11,7 @@
 <br>
 
 ## 🌈 대표사진
-![Group 126](https://user-images.githubusercontent.com/97332044/217028521-ab1c73ec-52c3-455c-8a83-a47af75c8540.svg)
+![Group 126](https://user-images.githubusercontent.com/97332044/217054483-23b8cebb-cf51-47b9-928c-0df7439108a5.png)
 <br>
 
 ## ✨ 기술스택
